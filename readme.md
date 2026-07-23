@@ -19,7 +19,3 @@ Sometimes doing other side quests:
 - [keepmealive](https://github.com/grikomsn/keepmealive) - WXT-powered browser extension that keeps tabs alive by auto-refreshing them on a schedule
 - [r8ro](https://github.com/grikomsn/r8ro) - Realtime retrospective boards and planning poker built with Next.js and Supabase ([website](https://r8ro.app/))
 - And probably many more on the [repositories page](https://github.com/grikomsn?tab=repositories)
-
-<br />
-
-View my resume, book my calendar, or email me at griko@nibras.co.
