@@ -12,4 +12,3 @@ Recently made some harness plugins and such:
 - OpenCode provider plugins to use [Orvix.ai](https://github.com/grikomsn/opencode-provider-orvix), and [Pooiside.ai](https://github.com/grikomsn/opencode-provider-poolside) models
 - Pi provider plugins to use [OpenCode Console](https://github.com/grikomsn/pi-provider-opencode-console) and [Poolside.ai](https://github.com/grikomsn/pi-provider-poolside) models too
 - AI SDK 7 provider to use [OpenAI models via ChatGPT OAuth](https://github.com/grikomsn/ai-sdk-provider-chatgpt-oauth)
-- And some utilities to setup [OpenCode systemd service](https://github.com/grikomsn/opencode-systemd) or [self-host on Railway instance](https://github.com/grikomsn/ort)
