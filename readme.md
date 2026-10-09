@@ -12,3 +12,4 @@ Recently made some harness plugins and such:
 - OpenCode provider plugins to use [Orvix.ai](https://github.com/grikomsn/opencode-provider-orvix), and [Pooiside.ai](https://github.com/grikomsn/opencode-provider-poolside) models
 - Pi provider plugins to use [OpenCode Console](https://github.com/grikomsn/pi-provider-opencode-console) and [Poolside.ai](https://github.com/grikomsn/pi-provider-poolside) models too
 - AI SDK 7 provider to use [OpenAI models via ChatGPT OAuth](https://github.com/grikomsn/ai-sdk-provider-chatgpt-oauth)
+- TanStack AI adapter to use [OpenCode](https://github.com/grikomsn/tanstack-ai-opencode-console) models (not the harness, the hosted ones)
