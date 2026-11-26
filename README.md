@@ -11,6 +11,8 @@ I make useful, fast, and friendly things. I lead engineering at [Wayfindr](https
 
 [nibras.co](https://nibras.co) · [Resume](https://nibras.co/resume) · [Book a call](https://nbr.st/cal) · [griko@nibras.co](mailto:griko@nibras.co)
 
+`npx grikomsn` shows my card in a terminal. [Run it in your browser.](https://grikomsn.github.io/grikomsn/)
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="./assets/signature-dark.svg">
 <img src="./assets/signature-light.svg" alt="Griko" width="140">
